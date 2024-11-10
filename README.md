@@ -814,6 +814,7 @@ const Roadmap = () => (
 
 export default Roadmap;
 ```
+</details>
 ## <a name="more">🚀 Author</a>
 
 <h3>Shudhanshu Ranjan</h3>
