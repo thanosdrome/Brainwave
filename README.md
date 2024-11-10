@@ -816,4 +816,4 @@ export default Roadmap;
 ```
 # Author
 
-Shudhanshu Ranjan <button href="https://github.com/thanosdrome/">Follow</button>
+Shudhanshu Ranjan 
