@@ -14,13 +14,13 @@
   <h3 align="center">Modern UI/UX website</h3>
 </div>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## Tech Stack</a>
 
 - Vite
 - React.js
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## Features</a>
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
@@ -37,6 +37,6 @@
 and many more, including code architecture and reusability
 
 
-## <a name="more">🚀 Author</a>
+## Author</a>
 
 <h3>Shudhanshu Ranjan</h3>
