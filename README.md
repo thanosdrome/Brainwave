@@ -52,7 +52,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/thanosdrome/Brainware.git
-cd Brainwave
+cd brainwave
 ```
 
 **Installation**
@@ -814,6 +814,17 @@ const Roadmap = () => (
 
 export default Roadmap;
 ```
-# Author
 
-Shudhanshu Ranjan <button href="https://github.com/thanosdrome/">Follow</button>
+</details>
+
+## <a name="links">🔗 Links</a>
+
+- [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
+- [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
+- [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
+- [Live Website](https://jsm-brainwave.com/)
+
+## <a name="more">🚀 Author</a>
+
+<h3>Shudhanshu Ranjan</h3>
+
