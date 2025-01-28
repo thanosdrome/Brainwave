@@ -12,7 +12,7 @@
 - React.js
 - Tailwind CSS
 
-## Features</a>
+## Features
 
 👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
@@ -29,6 +29,6 @@
 and many more, including code architecture and reusability
 
 
-## Author</a>
+## Author
 
 <h3>Shudhanshu Ranjan</h3>
