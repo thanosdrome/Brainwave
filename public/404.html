@@ -4,8 +4,15 @@
     <meta charset="utf-8">
     <title>Redirecting...</title>
     <script>
-      window.location.replace("/Brainwave"); // Match your repo
+      
+      const segment = 1; 
+      const locationSegments = location.pathname.split('/');
+      const repoName = '/Brainwave/'; 
+      const redirectPath = locationSegments.slice(segment).join('/');
+      location.replace(repoName + '#' + redirectPath);
     </script>
   </head>
-  <body></body>
+  <body>
+    <h1>Redirecting...</h1>
+  </body>
 </html>
